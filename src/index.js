@@ -99,3 +99,4 @@ console.log(sorting("Bob"));
 console.log(sorting("Charlie"));
 console.log(sorting("acctNum"));
 console.log(sorting("Alice", "balance", "asc"));
+console.log(sorting("Alice", "balance", "desc"));
